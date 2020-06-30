@@ -2,7 +2,7 @@
 
 ### Johns Hopkins University Data Viewers
 
-本家のページがどうもきらいだったので、個人的に見やすい（かどうか）表示に変更してみました。Daily Status Chart　はなんでしょう？
+[本家のページ](https://coronavirus.jhu.edu/map.html)がどうもきらいだったので、個人的に見やすい（かどうか）表示に変更してみました。Daily Status Chart　はなんでしょう？
 無料のherokuサーバを使っているので、遅いのはご勘弁ください。
 
 * [Jhu Data Viewer (Django ver)](https://evening-citadel-78425.herokuapp.com/)
