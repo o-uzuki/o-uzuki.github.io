@@ -1,6 +1,6 @@
 ## Welcome to Moon and Water 
 
-## Johns Hopkins University Data Viewers
+### Johns Hopkins University Data Viewers
 
 本家のページがどうもきらいだったので、個人的に見やすい（かどうか）表示に変更してみました。Daily Status Chart　はなんでしょう？
 
